@@ -32,4 +32,5 @@
               
               
               This method dispatches action with returning object with type property as a unique identification 
-              code which helps in which action is dispatched from the component. 
+              code which helps in which action is dispatched from the component and tells reducer in the particular slice to
+              which reducer to call.
